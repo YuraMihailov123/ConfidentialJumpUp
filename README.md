@@ -48,7 +48,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Our games and our website are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our Game may unintentionally appeal to children. 
+
+An age gate is in place at the launch of the Game, which shall direct each user to the part of the Game that is applicable to that user’s age bracket. 
+
+We do not collect any personally identifiable information within the age gated part of our Game for children, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years. 
+
+If you believe that We have inadvertently collected information from a person under the age of 13, please contact us at the email address below and the information will be permanently deleted.
 
 Changes to This Privacy Policy
 
